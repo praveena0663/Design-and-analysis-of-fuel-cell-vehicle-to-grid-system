@@ -1,0 +1,9 @@
+1. We have designed a fuel cell vehicle to grid system.
+
+2. The low variable voltage at fuel cell stack level is boosted and maintained constant with a DC-DC Boost converter at around 0.76 Duty Cycle.
+
+3. The DC-AC generation is achieved by a Grid Connected Inverter with grid as a sink at 220Vrms @ 93% efficiency.
+
+4. To run the model, first run the rlpar_1.m file for variable generation in base workspace, then run the attached Simulink file.
+
+Team Members:- Uday Ashish Pasunooti(22JE0667), Navya Surya Praveena Pappala(22JE0663).
